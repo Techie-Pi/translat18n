@@ -2,14 +2,12 @@
 
 > Simple translation module for React with helper hooks and built-in components
 
-[![NPM](https://img.shields.io/npm/v/translat18n.svg)](https://www.npmjs.com/package/translat18n) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
 ## Install
 
 ```bash
-npm install --save translat18n
+npm install --save github:Techie-Pi/translat18n
 ```
-
+<!--
 ## Usage
 
 ```jsx
@@ -24,7 +22,7 @@ class Example extends Component {
   }
 }
 ```
-
+-->
 ## License
 
 MIT © [Techie-Pi](https://github.com/Techie-Pi)
